@@ -2,9 +2,9 @@ Scratch_Auth
 
 By [Andrew Thul](www.andrewthul.com).
 
-![alt tag](https://raw2.github.com/adthul/scratch_auth/master/public/images/scratch_auth_screenshot.png)
+![alt tag](https://raw2.github.com/adthul/scratch_auth/master/public/scratch_auth_screenshot.png)
 ## Description
-**scratch_auth** is a simple application that includes the basic architecture allowing users to sign up, sign in, remain logged into a session, and logout. There are authentications in place checking for validations of user generated length and uniquness in the appropriate forms. there is also user authentication in place defining certain actions to only be available to currently logged in users.
+**scratch_auth** is a simple application that includes the basic architecture allowing users to sign up, sign in, remain logged into a session, and logout. There are authentications in place checking for validations of user generated content for length and uniquness in the appropriate forms. there is also user authentication in place defining certain actions to only be available to currently logged in users.
 
 
 ## Installation
