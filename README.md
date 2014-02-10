@@ -1,8 +1,7 @@
-Scratch_Auth
+# Scratch_Auth
 
-By [Andrew Thul](www.andrewthul.com).
+By [Andrew Thul](github.com/adthul).
 
-![alt tag](https://raw2.github.com/adthul/scratch_auth/master/public/scratch_auth_screenshot.png)
 ## Description
 **scratch_auth** is a simple application that includes the basic architecture allowing users to sign up, sign in, remain logged into a session, and logout. There are authentications in place checking for validations of user generated content for length and uniquness in the appropriate forms. there is also user authentication in place defining certain actions to only be available to currently logged in users.
 
@@ -36,6 +35,8 @@ Open a browser and search for URL:
 
 localhost:3000
 
+Otherwise put into production with whetever public server you prefer, [Heroku](https://devcenter.heroku.com/articles/quickstart) for instance.
+
 
 ## Usage
 
@@ -50,7 +51,7 @@ send us a pull request.
 
 ## Authors
 
-* Andrew Thul (https://github.com/adthul)
+* Andrew Thul
 
 ...based on RailsCasts #250
 
@@ -62,3 +63,7 @@ send us a pull request.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## License
+
+[MIT License](http://adthul.mit-license.org)
